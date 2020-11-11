@@ -1,0 +1,25 @@
+int a;
+
+void b[100];
+
+void main(void)
+{
+	;
+}
+
+int main(int k)
+{
+   int array[100];
+   int n;
+ 
+   while (n == 0)
+   while (array[n])
+   {
+      if (array[n] > 7 )
+      {
+	int b;
+      }
+   }
+   if (b == n)
+  	 return -0;
+}
